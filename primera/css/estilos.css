@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia;
+    margin: 30px;
+}
+
+body{
+    background-color: rgb(212, 67, 96);
+}
+h1{
+    border: 10px;
+    border-style: dotted;
+    padding: 15px;
+    color:rgb(218, 192, 105);
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p{
+    padding: 10px;
+    border-radius: 20px;
+    border-style: solid;
+    color: rgb(182, 190, 212);
+    text-align: justify;
+    background-color: indigo;
+}
+img{
+    border: 15px;
+    border-style:dotted;
+    width: 37%;
+}
